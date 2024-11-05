@@ -73,7 +73,7 @@ nav a {
 }
 
 .bannerRegistro {
-    background-image: url('/Banners/banner_Registro.png');
+    background-image: url('../Banners/banner_Registro.png');
 }
 
 .bannerControles {
@@ -81,11 +81,11 @@ nav a {
 }
 
 .bannerHistorial {
-    background-image: url('/Banners/banner_historial.png');
+    background-image: url('../Banners/banner_historial.png');
 }
 
 .bannerContacto {
-    background-image: url('/Banners/banner_contacto.png');
+    background-image: url('../Banners/banner_contacto.png');
 }
 
 /* Texto en Hero */
